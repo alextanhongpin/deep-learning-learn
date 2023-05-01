@@ -2,6 +2,7 @@
 
 
 
+
 To explore
 
 - [ ] https://stable-diffusion-art.com/realistic-people/
@@ -9,3 +10,4 @@ To explore
 - [ ] [An introduction to autoencoders](https://arxiv.org/pdf/2201.03898.pdf)
 - [ ] [Recommended system with generative retrieval](https://shashankrajput.github.io/Generative.pdf)
 - [ ] https://github.com/MagicFusion/MagicFusion.github.io
+- [ ] https://github.com/georgia-tech-db/eva
