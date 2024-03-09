@@ -1,1 +1,7 @@
-$ Bandit algo
+# Bandit algo
+
+
+
+Use cases
+- autoswitch
+- ads optimisation 
